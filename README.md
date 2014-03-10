@@ -7,10 +7,10 @@ This is a little demo on using HAML (and Ruby) with Sinatra and Thin web server 
 Clone and run 
 
 ```bash
-ruby franksinatra.rb
+ruby frank.rb
 ```
 
-and go to localhost:3456 in your browser.
+and go to localhost in your browser.
 
 ###License
 
